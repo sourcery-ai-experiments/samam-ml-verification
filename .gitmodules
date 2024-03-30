@@ -1,0 +1,3 @@
+[submodule "samam"]
+	path = samam
+	url = https://gitlab.com/smc/samam.git
